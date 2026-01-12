@@ -9,6 +9,7 @@
 マスター／バス／トラック用 ADAAサチュレーション。Analog Tape、Tube、Transformer等14アルゴリズム搭載。
 
 ## 🚀 インストール　
+
 ![Downloads](https://img.shields.io/github/downloads/OTODESK4193/NextGenSaturation/total.svg)
 
 1. [最新リリース](https://github.com/OTODESK4193/NextGenSaturation/releases/latest)からダウンロード
