@@ -1,4 +1,7 @@
 # NextGenSaturation 🎛️ 高品位サチュレーション・プラグイン
+<img width="1024" height="290" alt="image" src="https://github.com/user-attachments/assets/22fb7c90-d7fd-47f1-815d-3ab17a892f94" />
+<img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/028e485a-a200-478f-a490-baac681b2418" />
+
 
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.ja.html)
 [![Platforms](https://img.shields.io/badge/Platform-Win%20VST3-brightgreen.svg)](https://juce.com/)
