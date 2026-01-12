@@ -23,7 +23,7 @@
 
 ## 🖥️ システム要件
 - Windows 10/11 (64bit)
-- VST3対応DAW (Ableton/Reaper等)
+- VST3対応DAW (Abletonで動作確認済み)
 - 4GB RAM以上推奨
 
 ## 📚 ドキュメント
