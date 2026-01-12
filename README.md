@@ -1,5 +1,4 @@
-![Downloads](https://img.shields.io/github/downloads/OTODESK4193/NextGenSaturation
-/total.svg)
+![Downloads](https://img.shields.io/github/downloads/OTODESK4193/NextGenSaturation/total.svg)
 
 1. [最新リリース](https://github.com/OTODESK4193/NextGenSaturation/releases/latest)からダウンロード
 2. VST3: `[DAWフォルダ]/VST3/NextGenSaturation.vst3`
