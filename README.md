@@ -31,6 +31,7 @@
 - [ソースコード](Source/)
 
 ## 🤝 コミュニティ
+[![X](https://img.shields.io/badge/X-%40kijyoumusic-black?logo=x&logoColor=white)](https://x.com/kijyoumusic)
 
 
 ---
