@@ -27,13 +27,11 @@
 - 4GB RAM以上推奨
 
 ## 📚 ドキュメント
-- [ユーザーマニュアルJP (PDF)](Docs/UserManual_JP.pdf)
+- [ユーザーマニュアルJP (PDF)](/UserManual_JP.pdf)
 - [ソースコード](Source/)
-- [デモ音源](https://soundcloud.com/otodesk/sets/nextgensaturation-demos)
 
 ## 🤝 コミュニティ
-- 💬 [Discussions](https://github.com/OTODESK/NextGenSaturation/discussions)
-- 🐛 [Issues](https://github.com/OTODESK/NextGenSaturation/issues)
+
 
 ---
 
