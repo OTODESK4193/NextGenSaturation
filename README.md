@@ -12,7 +12,7 @@
 
 1. [最新リリース](https://github.com/OTODESK/NextGenSaturation/releases/latest)からダウンロード
 2. VST3: `[DAWフォルダ]/VST3/NextGenSaturation.vst3`
-3. [ユーザーマニュアル](Docs/UserManual_JP.pdf)
+3. [ユーザーマニュアル](/UserManual_JP.pdf)
 
 ## 📖 機能
 - 14種類サチュレーション（Tape/Tube/Transformer等）
