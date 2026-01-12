@@ -6,8 +6,6 @@
 [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.ja.html)
 [![Platforms](https://img.shields.io/badge/Platform-Win%20VST3-brightgreen.svg)](https://juce.com/)
 
-![GUIスクショ](Docs/screenshots/main_gui.png)
-
 マスター／バス／トラック用 ADAAサチュレーション。Analog Tape、Tube、Transformer等14アルゴリズム搭載。
 
 ## 🚀 インストール
