@@ -26,5 +26,8 @@
 
 ---
 
-**GPLv3 | Made with JUCE**
+### ライセンスについて
+このプロジェクトは **GNU Affero General Public License v3.0 (AGPLv3)** のもとで公開されています。詳細は [LICENSE](LICENSE) ファイルを作成してください。
+
+本プラグインは **JUCE 8** フレームワークを使用して開発されています。JUCE 8のオープンソースライセンス規約に基づき、本ソフトウェアのソースコードおよびバイナリにはAGPLv3が適用されます。
 
